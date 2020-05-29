@@ -1,8 +1,8 @@
 {
   "neighbor": {
-    "admob": true
+    "admob": false
   },
   "whoisyourdady": {
-    "admob": true
+    "admob": false
   }
 }
