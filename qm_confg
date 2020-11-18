@@ -1,0 +1,20 @@
+{
+  "android": {
+    "minVer": "",
+    "currentVer": "",
+    "force": false,
+    "whatIsNew": [
+      "",
+      ""
+    ]
+  },
+  "ios": {
+    "minVer": "",
+    "currentVer": "",
+    "force": false,
+    "whatIsNew": [
+      "",
+      ""
+    ]
+  }
+}
