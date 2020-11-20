@@ -9,7 +9,7 @@
     ]
   },
   "ios": {
-    "minVer": "2.0.0",
+    "minVer": "1.4.0",
     "currentVer": "2.0.0",
     "force": false,
     "whatIsNew": [
