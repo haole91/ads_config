@@ -9,12 +9,11 @@
     ]
   },
   "ios": {
-    "minVer": "",
-    "currentVer": "",
+    "minVer": "2.0.0",
+    "currentVer": "2.0.0",
     "force": false,
     "whatIsNew": [
-      "",
-      ""
+      "Sửa lỗi ứng dụng"
     ]
   }
 }
